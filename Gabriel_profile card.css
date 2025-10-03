@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(204, 231, 218);
+    
+}
+div{
+    border: 7px dashed;
+    border-style: dashed 25px;
+    border-color: rgb(233, 231, 103);
+    padding: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+p{
+    font-family:'Lucida Sans' ; size: 75px; color: rgb(0, 0, 0);
+}
+
+h1{
+    font-family: 'Lucida Sans'; size: 75px; text-decoration-line: underline; color: rgb(80, 79, 79);
+}
+
+h4{
+    font-family: 'Lucida Sans' ; size: 75px; text-decoration-line: underline; color:  rgb(80, 79, 79);
+}
